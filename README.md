@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/004/335/409/small_2x/cyber-security-icon-illustration-cyber-security-crime-protection-hacker-infographic-template-presentation-concept-banner-pictogram-icon-set-icons-vector.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/004/335/409/small_2x/cyber-security-icon-illustration-cyber-security-crime-protection-hacker-infographic-template-presentation-concept-banner-pictogram-icon-set-icons-vector.jpg)
 <h1 align="center">Hi 👋, I'm Aivar Antonio</h1>
 <h3 align="center">A passionate cybersecurity professional|Malware Analysis from Angola</h3>
 <img align="center" alt="coding" width="400" src="https://softflow.ca/wp-content/uploads/2022/06/1574956586430.gif">
